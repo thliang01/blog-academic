@@ -2,6 +2,8 @@
 
 # Academic Template for [Hugo](https://github.com/gohugoio/hugo)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/fd6ba469-b3fa-4bf1-8b82-15f43a675192/deploy-status)](https://app.netlify.com/sites/thliangdev/deploys)
+
 The Hugo **Academic Resumé Template** empowers you to create your job-winning online resumé and showcase your academic publications.
 
 [Check out the latest demo](https://academic-demo.netlify.app) of what you'll get in less than 10 minutes, or [view the showcase](https://wowchemy.com/user-stories/).
