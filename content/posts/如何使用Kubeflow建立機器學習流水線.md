@@ -5,7 +5,7 @@ title: "如何使用Kubeflow建立機器學習流水線"
 subtitle: ""
 summary: ""
 authors: []
-tags: [k8s, ML]
+tags: [Kubernetes, k8s, ML]
 categories: []
 date: 2020-12-04T23:35:07+08:00
 lastmod: 2020-12-04T23:35:07+08:00
