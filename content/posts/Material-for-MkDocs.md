@@ -28,8 +28,6 @@ image:
 projects: []
 ---
 
-# Material for MkDocs
-
 ``
 !pip install mkdocs-material
 ``
